@@ -6,6 +6,10 @@ This project aims to recreate the google homepage for learning and practicing pu
 
 You just need to clone the directory to your system then open "index.html" with your browser.
 
+## Viewing the website
+
+You can view the page on [my github page](https://ardasevinc.me/google-homepage)
+
 ### Installing
 
 git clone <url of the project>
