@@ -76,7 +76,10 @@ header {
 }
 
 .search-buttons span a:hover {
-    text-decoration: underline;
+    background-color: rgba(0, 0, 0, 0.06);
+    border: 2px solid gray;
+    border-radius: 8px;
+
 }
 
 footer {
