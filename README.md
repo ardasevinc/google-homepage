@@ -13,3 +13,7 @@ git clone <url of the project>
 ## Authors
 
 Arda Sevinç
+
+## Further Notes
+
+I do not own anything related to Google in this project. Only the code is mine.
