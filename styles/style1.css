@@ -1,3 +1,7 @@
+html {
+    outline: none;
+}
+
 body {
     min-height: 100%;
     font-family: Arial, sans-serif;
