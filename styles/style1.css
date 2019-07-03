@@ -19,6 +19,7 @@ header {
 
 .top-nav span a {
     color: rgba(0,0,0,0.87);
+    opacity: 0.85;
     text-decoration: none;
     padding: 0.4rem;
 }
@@ -61,6 +62,7 @@ header {
 
 .search-buttons span a {
     color: rgba(0,0,0,0.87);
+    opacity: 0.85;
     text-decoration: none;
     padding: 1rem;
 }
@@ -75,6 +77,7 @@ header {
 
 .location span {
     color: rgba(0,0,0,0.87);
+    opacity: 0.85;
     text-decoration: none;
 }
 
@@ -98,6 +101,7 @@ footer {
 
 .footer1 li a {
     color: rgba(0,0,0,0.87);
+    opacity: 0.85;
     text-decoration: none;
 }
 
@@ -112,6 +116,7 @@ footer {
 
 .footer2 li a {
     color: rgba(0,0,0,0.87);
+    opacity: 0.85;
     text-decoration: none;
 }
 
