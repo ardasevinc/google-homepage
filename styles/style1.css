@@ -73,20 +73,15 @@ header {
     text-decoration: underline;
 }
 
-.location {
-    margin-left: 1.2rem;
-}
-
-.location span {
-    color: rgba(0,0,0,0.87);
-    opacity: 0.85;
-    text-decoration: none;
-}
-
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+.bottom-bar {
+    border-top: 2px rgba(0, 0, 0, 0.2) solid;
+    background-color: rgba(0, 0, 0, 0.09);
 }
 
 .footer1 li, .footer2 li {
@@ -124,4 +119,16 @@ footer {
 
 .footer2 li a:hover {
     text-decoration: underline;
+}
+
+ .author {
+    display: block;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(124, 117, 94, 0.192);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.88);
+    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 1);
 }
