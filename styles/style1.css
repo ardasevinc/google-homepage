@@ -53,6 +53,7 @@ header {
     margin: 0 auto;
     top: 12rem;
     padding-left: 1rem;
+    outline: none;
 }
 
 .search-buttons  {
