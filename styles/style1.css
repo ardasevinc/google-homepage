@@ -61,10 +61,12 @@ header {
 }
 
 .search-buttons span a {
+    background-color: rgba(0, 0, 0, 0.09);
     color: rgba(0,0,0,0.87);
     opacity: 0.85;
     text-decoration: none;
-    padding: 1rem;
+    padding: 0.7rem;
+    margin: 0.4rem;
 }
 
 .search-buttons span a:hover {
