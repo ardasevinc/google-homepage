@@ -1,0 +1,112 @@
+body {
+    min-height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    font-size: 1rem;
+}
+
+header {
+    min-height: 10%;
+    width: 100%;
+    margin: auto;
+}
+
+.top-nav {
+    text-align: end;
+    margin: auto;
+    padding: 1.6rem;
+}
+
+.top-nav span a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    padding: 0.4rem;
+}
+
+.top-nav span a:hover {
+    text-decoration: underline
+}
+
+.logo img {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    top: 10rem;
+    
+}
+
+.search-bar form input {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    top: 12rem;
+}
+
+.search-buttons  {
+    display: inline-block;
+    position: relative;
+    top: 15rem;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.search-buttons span a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.search-buttons span a:hover {
+    text-decoration: underline;
+}
+
+.location {
+    margin-left: 1.2rem;
+}
+
+.location span {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer1 li, .footer2 li {
+    display: inline-block;
+    padding: 0.2rem;
+
+}
+
+.footer1 {
+    position: absolute;
+    text-align: start;
+    padding: 1rem;
+}
+
+.footer1 li a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+.footer1 li a:hover {
+    text-decoration: underline;
+}
+
+.footer2 {
+    text-align: end;
+    padding: 1rem;
+}
+
+.footer2 li a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+.footer2 li a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,101 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    font-size: 1rem;
+}
+
+header {
+    width: auto;
+    height: auto;
+}
+
+main {
+    margin:auto;
+    height: auto;
+    width: auto;
+}
+
+.top-nav {
+    background-color: aquamarine;
+    float: right;
+    height: auto;
+    width: auto;
+}
+
+.top-nav li {
+    /* background-color: aqua; */
+    display: inline-block;
+    padding: 1rem;
+}
+
+.top-nav li a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+}
+
+.search-buttons ul li {
+    display: inline-block;
+    margin: 1rem;
+}
+
+.search-buttons ul li a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+}
+
+.location {
+    background-color: aquamarine;
+    position: absolute;
+    bottom: 50px;
+    height: auto;
+    width: 100%;
+}
+
+.location span {
+    margin-left: 1.5rem;
+}
+
+.bottom-bar {
+    background-color: aquamarine;
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow: hidden;   
+}
+
+.footer1 {
+    float: left;
+    padding: 1rem;
+    
+}
+
+.footer2 {
+    float: right;
+    padding: 1rem;
+}
+
+.footer1 li, .footer2 li {
+    display: inline-block;
+    padding: 0.5rem;
+}
+
+.footer1 li a, .footer2 li a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+}
+
+.logo {
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+}
+
+.search-bar {
+    margin-bottom: 1.5rem;
+    margin-left: 1rem;
+}
